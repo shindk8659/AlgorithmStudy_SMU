@@ -45,7 +45,7 @@ public class Main {
 				}
 			}
 			else
-				System.out.println("다시 입력해주세요.");
+				System.out.println("rewrite!");
 		}
 	}
 }
