@@ -32,7 +32,7 @@ public class StackMain {
 					number--;
 				}
 				else{
-					System.out.println("다시입력하세요.");
+					System.out.println("rewrite!");
 				}
 			}
 		}		
