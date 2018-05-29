@@ -44,7 +44,8 @@
   2. [백준 2869번 문제](https://www.acmicpc.net/problem/2869)
   3. [백준 7662번 문제](https://www.acmicpc.net/problem/7662)
 * 2주차 문제 풀이
-  * 준비중
+  * 신동규
+    1. [백준 2178번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EC%8B%A0%EB%8F%99%EA%B7%9C/BaekJoon2178/2178%ED%92%80%EC%9D%B4.md)
 
 ---
 
