@@ -9,26 +9,25 @@
 # 1주차
 
 * 장소 : 2018-05-22 1시 상명대학교 302호 	
-
 * 스터디 진행 
   * 1주차 문제를 어떠한 로직으로 풀이 했는지 발표
   * 스터디 내용 Git 관리 법 스터디
   * 마크다운 파일 작성법 스터디
   * 다음 주차 문제 정하기 (2~3개)
   * 각 알고리즘 분류별 1개 , [입사테스트용 문제집](https://www.acmicpc.net/workbook/view/1928) 중 2개  총 3개 를 일주일에 풀 예정
-
 * 1주차 문제
 
   1. [백준 10828번 문제 (스택)](https://www.acmicpc.net/problem/10828)
   2. [백준 9012번 문제(스택)](https://www.acmicpc.net/problem/9012)
-
 * 1주차 문제 풀이
 
   * 신동규
     1. [백준 10828번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EC%8B%A0%EB%8F%99%EA%B7%9C/BaekJoon10828/10828%ED%92%80%EC%9D%B4.md)
     2. [백준 9012번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EC%8B%A0%EB%8F%99%EA%B7%9C/BaekJoon9012/9012%ED%92%80%EC%9D%B4.md)
+  * 배정은
+    1. [백준 10828번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EB%B0%B0%EC%A0%95%EC%9D%80/180521/%EB%B0%B1%EC%A4%80%2010828%20%ED%92%80%EC%9D%B4.md)
+    2. [백준 9012번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EB%B0%B0%EC%A0%95%EC%9D%80/180521/%EB%B0%B1%EC%A4%80%209012%20%ED%92%80%EC%9D%B4.md)
 
-  
 
 ---
 
@@ -46,6 +45,10 @@
 * 2주차 문제 풀이
   * 신동규
     1. [백준 2178번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EC%8B%A0%EB%8F%99%EA%B7%9C/BaekJoon2178/2178%ED%92%80%EC%9D%B4.md)
+  * 배정은
+    1. [백준 2178번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EB%B0%B0%EC%A0%95%EC%9D%80/180529/%EB%B0%B1%EC%A4%80%202178%20%ED%92%80%EC%9D%B4.md)
+    2. [백준 2869번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EB%B0%B0%EC%A0%95%EC%9D%80/180529/%EB%B0%B1%EC%A4%80%202869%20%ED%92%80%EC%9D%B4.md)
+    3. [백준 7662번 풀이](https://github.com/shindk8659/AlgorithmStudy_SMU/blob/master/%EB%B0%B0%EC%A0%95%EC%9D%80/180529/%EB%B0%B1%EC%A4%80%207662%20%ED%92%80%EC%9D%B4.md)
 
 ---
 
